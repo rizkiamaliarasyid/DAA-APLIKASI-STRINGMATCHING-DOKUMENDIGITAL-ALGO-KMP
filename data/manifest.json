@@ -1,0 +1,483 @@
+{
+  "generatedAt": "2026-01-19T18:58:36.064Z",
+  "total": 53,
+  "documents": [
+    {
+      "id": "18614cecda7e",
+      "title": "0GWIFpXD93z2VBOG9LMwsylrQtIJgKqaX7PTlVVv",
+      "pdfFileName": "0GWIFpXD93z2VBOG9LMwsylrQtIJgKqaX7PTlVVv.pdf",
+      "pdfPath": "data/pdfs/0GWIFpXD93z2VBOG9LMwsylrQtIJgKqaX7PTlVVv.pdf",
+      "textPath": "data/texts/18614cecda7e.txt",
+      "bytes": 56813601,
+      "updatedAt": "2026-01-19T07:34:54.933Z"
+    },
+    {
+      "id": "3a191c197632",
+      "title": "0vWDTDUyEBx967UHzh7OPMPhOucbEU2G8vmhxLFZ",
+      "pdfFileName": "0vWDTDUyEBx967UHzh7OPMPhOucbEU2G8vmhxLFZ.pdf",
+      "pdfPath": "data/pdfs/0vWDTDUyEBx967UHzh7OPMPhOucbEU2G8vmhxLFZ.pdf",
+      "textPath": "data/texts/3a191c197632.txt",
+      "bytes": 88020009,
+      "updatedAt": "2026-01-19T07:34:56.067Z"
+    },
+    {
+      "id": "d81ab2e7a156",
+      "title": "100 Resep Kue  Cake Populer Ny. Liem by Chendawati",
+      "pdfFileName": "100 Resep Kue  Cake Populer Ny. Liem by Chendawati.pdf",
+      "pdfPath": "data/pdfs/100 Resep Kue  Cake Populer Ny. Liem by Chendawati.pdf",
+      "textPath": "data/texts/d81ab2e7a156.txt",
+      "bytes": 9009049,
+      "updatedAt": "2026-01-19T07:34:41.803Z"
+    },
+    {
+      "id": "0242773ac38a",
+      "title": "37 Resep Pilihan Mudah, Enak, Terbukti by Tim Penyusun",
+      "pdfFileName": "37 Resep Pilihan Mudah, Enak, Terbukti by Tim Penyusun.pdf",
+      "pdfPath": "data/pdfs/37 Resep Pilihan Mudah, Enak, Terbukti by Tim Penyusun.pdf",
+      "textPath": "data/texts/0242773ac38a.txt",
+      "bytes": 6772573,
+      "updatedAt": "2026-01-19T07:34:57.171Z"
+    },
+    {
+      "id": "960496407e5e",
+      "title": "3g7giCtlZfva8HtKxbvuLMcVlP7yjaG8SiFHFCmy",
+      "pdfFileName": "3g7giCtlZfva8HtKxbvuLMcVlP7yjaG8SiFHFCmy.pdf",
+      "pdfPath": "data/pdfs/3g7giCtlZfva8HtKxbvuLMcVlP7yjaG8SiFHFCmy.pdf",
+      "textPath": "data/texts/960496407e5e.txt",
+      "bytes": 61518002,
+      "updatedAt": "2026-01-19T07:34:56.829Z"
+    },
+    {
+      "id": "44d71d51b236",
+      "title": "46 Resep Variasi Nasi Goreng by Tim Pustaka Hanan",
+      "pdfFileName": "46 Resep Variasi Nasi Goreng by Tim Pustaka Hanan.pdf",
+      "pdfPath": "data/pdfs/46 Resep Variasi Nasi Goreng by Tim Pustaka Hanan.pdf",
+      "textPath": "data/texts/44d71d51b236.txt",
+      "bytes": 2526939,
+      "updatedAt": "2026-01-19T07:34:41.669Z"
+    },
+    {
+      "id": "c8f1572aeddd",
+      "title": "Bahasa-Indonesia-BS-KLS-X",
+      "pdfFileName": "Bahasa-Indonesia-BS-KLS-X.pdf",
+      "pdfPath": "data/pdfs/Bahasa-Indonesia-BS-KLS-X.pdf",
+      "textPath": "data/texts/c8f1572aeddd.txt",
+      "bytes": 7091799,
+      "updatedAt": "2026-01-19T18:57:01.165Z"
+    },
+    {
+      "id": "c9b8b38b1b87",
+      "title": "Bermain Sapintrong Yuk full_1767067429",
+      "pdfFileName": "Bermain Sapintrong Yuk full_1767067429.pdf",
+      "pdfPath": "data/pdfs/Bermain Sapintrong Yuk full_1767067429.pdf",
+      "textPath": "data/texts/c9b8b38b1b87.txt",
+      "bytes": 22522768,
+      "updatedAt": "2026-01-19T07:34:42.100Z"
+    },
+    {
+      "id": "9e6a1b5caeb2",
+      "title": "BlMRIPENItfwIJUfUPlA3WZGVACMI3MRubZAHKwd",
+      "pdfFileName": "BlMRIPENItfwIJUfUPlA3WZGVACMI3MRubZAHKwd.pdf",
+      "pdfPath": "data/pdfs/BlMRIPENItfwIJUfUPlA3WZGVACMI3MRubZAHKwd.pdf",
+      "textPath": "data/texts/9e6a1b5caeb2.txt",
+      "bytes": 3449366,
+      "updatedAt": "2026-01-19T07:34:42.154Z"
+    },
+    {
+      "id": "d7992390c3a4",
+      "title": "Cco90gx3rwlD86c9bu3vxno6r3h1FTfo0cs6cICP",
+      "pdfFileName": "Cco90gx3rwlD86c9bu3vxno6r3h1FTfo0cs6cICP.pdf",
+      "pdfPath": "data/pdfs/Cco90gx3rwlD86c9bu3vxno6r3h1FTfo0cs6cICP.pdf",
+      "textPath": "data/texts/d7992390c3a4.txt",
+      "bytes": 82028820,
+      "updatedAt": "2026-01-19T07:34:43.264Z"
+    },
+    {
+      "id": "3e7818f85321",
+      "title": "dsooCfa25ZPKhCjRaYTtFryw4BbFjZXYCQoMcjZE",
+      "pdfFileName": "dsooCfa25ZPKhCjRaYTtFryw4BbFjZXYCQoMcjZE.pdf",
+      "pdfPath": "data/pdfs/dsooCfa25ZPKhCjRaYTtFryw4BbFjZXYCQoMcjZE.pdf",
+      "textPath": "data/texts/3e7818f85321.txt",
+      "bytes": 8494069,
+      "updatedAt": "2026-01-19T07:34:43.381Z"
+    },
+    {
+      "id": "9f12416f26dd",
+      "title": "f0Sz8LxS09FjqV4ktG3hcqRBMEX7U8YLrmi2Affj",
+      "pdfFileName": "f0Sz8LxS09FjqV4ktG3hcqRBMEX7U8YLrmi2Affj.pdf",
+      "pdfPath": "data/pdfs/f0Sz8LxS09FjqV4ktG3hcqRBMEX7U8YLrmi2Affj.pdf",
+      "textPath": "data/texts/9f12416f26dd.txt",
+      "bytes": 3627017,
+      "updatedAt": "2026-01-19T07:34:43.440Z"
+    },
+    {
+      "id": "55972e173382",
+      "title": "Fisika_BS_KLS_XII",
+      "pdfFileName": "Fisika_BS_KLS_XII.pdf",
+      "pdfPath": "data/pdfs/Fisika_BS_KLS_XII.pdf",
+      "textPath": "data/texts/55972e173382.txt",
+      "bytes": 29421883,
+      "updatedAt": "2026-01-19T18:56:55.104Z"
+    },
+    {
+      "id": "668c93b38491",
+      "title": "FUhKGaXzIh62abbq17J4sXWFhtQtXpBXoSkY1bmF",
+      "pdfFileName": "FUhKGaXzIh62abbq17J4sXWFhtQtXpBXoSkY1bmF.pdf",
+      "pdfPath": "data/pdfs/FUhKGaXzIh62abbq17J4sXWFhtQtXpBXoSkY1bmF.pdf",
+      "textPath": "data/texts/668c93b38491.txt",
+      "bytes": 5842426,
+      "updatedAt": "2026-01-19T07:34:43.520Z"
+    },
+    {
+      "id": "40f6f8b3fb3b",
+      "title": "GvdqaNf3uVbQKKKTvAgclpDqaIxddz3qsIWz34BT",
+      "pdfFileName": "GvdqaNf3uVbQKKKTvAgclpDqaIxddz3qsIWz34BT.pdf",
+      "pdfPath": "data/pdfs/GvdqaNf3uVbQKKKTvAgclpDqaIxddz3qsIWz34BT.pdf",
+      "textPath": "data/texts/40f6f8b3fb3b.txt",
+      "bytes": 5664578,
+      "updatedAt": "2026-01-19T07:34:43.596Z"
+    },
+    {
+      "id": "1fcfc47a81ac",
+      "title": "Hebat Lopo Full_1767063580",
+      "pdfFileName": "Hebat Lopo Full_1767063580.pdf",
+      "pdfPath": "data/pdfs/Hebat Lopo Full_1767063580.pdf",
+      "textPath": "data/texts/1fcfc47a81ac.txt",
+      "bytes": 5195957,
+      "updatedAt": "2026-01-19T07:34:43.667Z"
+    },
+    {
+      "id": "0e1dadd143dc",
+      "title": "Informatika furqon",
+      "pdfFileName": "Informatika furqon.pdf",
+      "pdfPath": "data/pdfs/Informatika furqon.pdf",
+      "textPath": "data/texts/0e1dadd143dc.txt",
+      "bytes": 5188387,
+      "updatedAt": "2026-01-19T18:56:50.800Z"
+    },
+    {
+      "id": "1683ab823ad8",
+      "title": "IPA 7",
+      "pdfFileName": "IPA 7.pdf",
+      "pdfPath": "data/pdfs/IPA 7.pdf",
+      "textPath": "data/texts/1683ab823ad8.txt",
+      "bytes": 16639432,
+      "updatedAt": "2026-01-19T18:56:47.776Z"
+    },
+    {
+      "id": "45fc34f3aa2f",
+      "title": "ISLAM-BS-KLS_X_rev2",
+      "pdfFileName": "ISLAM-BS-KLS_X_rev2.pdf",
+      "pdfPath": "data/pdfs/ISLAM-BS-KLS_X_rev2.pdf",
+      "textPath": "data/texts/45fc34f3aa2f.txt",
+      "bytes": 8572953,
+      "updatedAt": "2026-01-19T18:56:41.204Z"
+    },
+    {
+      "id": "494c5f5c0afd",
+      "title": "iSVUsZ4yjZZOsDdCl1Ari3HqDjV9MufsTYfBSOhm",
+      "pdfFileName": "iSVUsZ4yjZZOsDdCl1Ari3HqDjV9MufsTYfBSOhm.pdf",
+      "pdfPath": "data/pdfs/iSVUsZ4yjZZOsDdCl1Ari3HqDjV9MufsTYfBSOhm.pdf",
+      "textPath": "data/texts/494c5f5c0afd.txt",
+      "bytes": 5333536,
+      "updatedAt": "2026-01-19T07:34:43.745Z"
+    },
+    {
+      "id": "fc2b0f73eeb4",
+      "title": "J602jtz4oX71zbBoNy55w3u9gzZhO0NfYV1CrsDp",
+      "pdfFileName": "J602jtz4oX71zbBoNy55w3u9gzZhO0NfYV1CrsDp.pdf",
+      "pdfPath": "data/pdfs/J602jtz4oX71zbBoNy55w3u9gzZhO0NfYV1CrsDp.pdf",
+      "textPath": "data/texts/fc2b0f73eeb4.txt",
+      "bytes": 4373733,
+      "updatedAt": "2026-01-19T07:34:43.812Z"
+    },
+    {
+      "id": "34bd1a3b9f08",
+      "title": "jjcT6zjs1ryiglm03cIYI2KgFZrcwC9uX5wRPczD",
+      "pdfFileName": "jjcT6zjs1ryiglm03cIYI2KgFZrcwC9uX5wRPczD.pdf",
+      "pdfPath": "data/pdfs/jjcT6zjs1ryiglm03cIYI2KgFZrcwC9uX5wRPczD.pdf",
+      "textPath": "data/texts/34bd1a3b9f08.txt",
+      "bytes": 69695035,
+      "updatedAt": "2026-01-19T07:34:44.665Z"
+    },
+    {
+      "id": "5b63d6f31fa7",
+      "title": "k6HWyzL0GXSSy9LoBUb9HNVI8QkZI8QFYKMphCh1",
+      "pdfFileName": "k6HWyzL0GXSSy9LoBUb9HNVI8QkZI8QFYKMphCh1.pdf",
+      "pdfPath": "data/pdfs/k6HWyzL0GXSSy9LoBUb9HNVI8QkZI8QFYKMphCh1.pdf",
+      "textPath": "data/texts/5b63d6f31fa7.txt",
+      "bytes": 42478322,
+      "updatedAt": "2026-01-19T07:34:45.207Z"
+    },
+    {
+      "id": "d4b6788ed0b3",
+      "title": "k8wH9Xb2orApBfHJmAFtSOH0EzVd0mZ10bU9uISB",
+      "pdfFileName": "k8wH9Xb2orApBfHJmAFtSOH0EzVd0mZ10bU9uISB.pdf",
+      "pdfPath": "data/pdfs/k8wH9Xb2orApBfHJmAFtSOH0EzVd0mZ10bU9uISB.pdf",
+      "textPath": "data/texts/d4b6788ed0b3.txt",
+      "bytes": 77239023,
+      "updatedAt": "2026-01-19T07:34:46.126Z"
+    },
+    {
+      "id": "caa92f7c18ba",
+      "title": "K9oJjHDbwZsXZ8FBb4ZMWvQO8yBxhDF2xyvcdmwr",
+      "pdfFileName": "K9oJjHDbwZsXZ8FBb4ZMWvQO8yBxhDF2xyvcdmwr.pdf",
+      "pdfPath": "data/pdfs/K9oJjHDbwZsXZ8FBb4ZMWvQO8yBxhDF2xyvcdmwr.pdf",
+      "textPath": "data/texts/caa92f7c18ba.txt",
+      "bytes": 9204544,
+      "updatedAt": "2026-01-19T07:34:46.252Z"
+    },
+    {
+      "id": "6d47817dc22f",
+      "title": "Kabayan jadi Robot full_1767145569",
+      "pdfFileName": "Kabayan jadi Robot full_1767145569.pdf",
+      "pdfPath": "data/pdfs/Kabayan jadi Robot full_1767145569.pdf",
+      "textPath": "data/texts/6d47817dc22f.txt",
+      "bytes": 36414926,
+      "updatedAt": "2026-01-19T07:34:46.686Z"
+    },
+    {
+      "id": "b4655ca2d8ab",
+      "title": "kgPIedfVRHm5tHX8n69OUFzxIDxKci3VWUiRCww1",
+      "pdfFileName": "kgPIedfVRHm5tHX8n69OUFzxIDxKci3VWUiRCww1.pdf",
+      "pdfPath": "data/pdfs/kgPIedfVRHm5tHX8n69OUFzxIDxKci3VWUiRCww1.pdf",
+      "textPath": "data/texts/b4655ca2d8ab.txt",
+      "bytes": 28427849,
+      "updatedAt": "2026-01-19T07:34:47.092Z"
+    },
+    {
+      "id": "582fc235bf82",
+      "title": "LbfYAhm9DLWjgBdbuTHMelVn3o0V8wOZLtGWgWiu",
+      "pdfFileName": "LbfYAhm9DLWjgBdbuTHMelVn3o0V8wOZLtGWgWiu.pdf",
+      "pdfPath": "data/pdfs/LbfYAhm9DLWjgBdbuTHMelVn3o0V8wOZLtGWgWiu.pdf",
+      "textPath": "data/texts/582fc235bf82.txt",
+      "bytes": 33620885,
+      "updatedAt": "2026-01-19T07:34:47.553Z"
+    },
+    {
+      "id": "a024bf58bfb4",
+      "title": "Loli dari Tobati full_1767066607",
+      "pdfFileName": "Loli dari Tobati full_1767066607.pdf",
+      "pdfPath": "data/pdfs/Loli dari Tobati full_1767066607.pdf",
+      "textPath": "data/texts/a024bf58bfb4.txt",
+      "bytes": 4376858,
+      "updatedAt": "2026-01-19T07:34:47.621Z"
+    },
+    {
+      "id": "f9818dc1e501",
+      "title": "Majalah Liris Edisi Agustus 2025",
+      "pdfFileName": "Majalah Liris Edisi Agustus 2025.pdf",
+      "pdfPath": "data/pdfs/Majalah Liris Edisi Agustus 2025.pdf",
+      "textPath": "data/texts/f9818dc1e501.txt",
+      "bytes": 28820369,
+      "updatedAt": "2026-01-19T07:34:47.945Z"
+    },
+    {
+      "id": "6ed3fb13a5de",
+      "title": "Majalah Liris Edisi Desember 2025",
+      "pdfFileName": "Majalah Liris Edisi Desember 2025.pdf",
+      "pdfPath": "data/pdfs/Majalah Liris Edisi Desember 2025.pdf",
+      "textPath": "data/texts/6ed3fb13a5de.txt",
+      "bytes": 24497182,
+      "updatedAt": "2026-01-19T07:34:48.272Z"
+    },
+    {
+      "id": "a11e0c47bd2f",
+      "title": "Majalah Liris Edisi Juli 2025",
+      "pdfFileName": "Majalah Liris Edisi Juli 2025.pdf",
+      "pdfPath": "data/pdfs/Majalah Liris Edisi Juli 2025.pdf",
+      "textPath": "data/texts/a11e0c47bd2f.txt",
+      "bytes": 32965766,
+      "updatedAt": "2026-01-19T07:34:48.725Z"
+    },
+    {
+      "id": "2663f0ba7b0e",
+      "title": "Majalah Liris Edisi Oktober 2025",
+      "pdfFileName": "Majalah Liris Edisi Oktober 2025.pdf",
+      "pdfPath": "data/pdfs/Majalah Liris Edisi Oktober 2025.pdf",
+      "textPath": "data/texts/2663f0ba7b0e.txt",
+      "bytes": 10938067,
+      "updatedAt": "2026-01-19T07:34:49.109Z"
+    },
+    {
+      "id": "c9ccc105ec0e",
+      "title": "Majalah Liris Edisi September 2025",
+      "pdfFileName": "Majalah Liris Edisi September 2025.pdf",
+      "pdfPath": "data/pdfs/Majalah Liris Edisi September 2025.pdf",
+      "textPath": "data/texts/c9ccc105ec0e.txt",
+      "bytes": 7875832,
+      "updatedAt": "2026-01-19T07:34:49.206Z"
+    },
+    {
+      "id": "1bde2adf7f46",
+      "title": "Matematika Furqon kls VII",
+      "pdfFileName": "Matematika Furqon kls VII.pdf",
+      "pdfPath": "data/pdfs/Matematika Furqon kls VII.pdf",
+      "textPath": "data/texts/1bde2adf7f46.txt",
+      "bytes": 24110712,
+      "updatedAt": "2026-01-19T18:56:36.885Z"
+    },
+    {
+      "id": "d65d93aefd0b",
+      "title": "MrboDoOMoUSOnBHMxGYikQ4WRV6OLlohj44bMT6m",
+      "pdfFileName": "MrboDoOMoUSOnBHMxGYikQ4WRV6OLlohj44bMT6m.pdf",
+      "pdfPath": "data/pdfs/MrboDoOMoUSOnBHMxGYikQ4WRV6OLlohj44bMT6m.pdf",
+      "textPath": "data/texts/d65d93aefd0b.txt",
+      "bytes": 51957765,
+      "updatedAt": "2026-01-19T07:34:49.907Z"
+    },
+    {
+      "id": "5243528db74f",
+      "title": "nLQ2HFJOe2tAFcZbnWyH6CADZQImDI7Uw3YD8K3r",
+      "pdfFileName": "nLQ2HFJOe2tAFcZbnWyH6CADZQImDI7Uw3YD8K3r.pdf",
+      "pdfPath": "data/pdfs/nLQ2HFJOe2tAFcZbnWyH6CADZQImDI7Uw3YD8K3r.pdf",
+      "textPath": "data/texts/5243528db74f.txt",
+      "bytes": 6178986,
+      "updatedAt": "2026-01-19T07:34:49.994Z"
+    },
+    {
+      "id": "cb759d32b069",
+      "title": "nyanyian keraduduk full_compressed-1_1767062953",
+      "pdfFileName": "nyanyian keraduduk full_compressed-1_1767062953.pdf",
+      "pdfPath": "data/pdfs/nyanyian keraduduk full_compressed-1_1767062953.pdf",
+      "textPath": "data/texts/cb759d32b069.txt",
+      "bytes": 10332031,
+      "updatedAt": "2026-01-19T07:34:50.110Z"
+    },
+    {
+      "id": "5fb7bdd6d308",
+      "title": "oVOOV068FnesQmOaH54upYj78er50qoMkHWtEIfC",
+      "pdfFileName": "oVOOV068FnesQmOaH54upYj78er50qoMkHWtEIfC.pdf",
+      "pdfPath": "data/pdfs/oVOOV068FnesQmOaH54upYj78er50qoMkHWtEIfC.pdf",
+      "textPath": "data/texts/5fb7bdd6d308.txt",
+      "bytes": 4130017,
+      "updatedAt": "2026-01-19T07:34:50.173Z"
+    },
+    {
+      "id": "1970495914a0",
+      "title": "P565JNtxhzdmTudxhGK322pBs9HWtccnB4mFfP1A",
+      "pdfFileName": "P565JNtxhzdmTudxhGK322pBs9HWtccnB4mFfP1A.pdf",
+      "pdfPath": "data/pdfs/P565JNtxhzdmTudxhGK322pBs9HWtccnB4mFfP1A.pdf",
+      "textPath": "data/texts/1970495914a0.txt",
+      "bytes": 1914490,
+      "updatedAt": "2026-01-19T07:34:50.203Z"
+    },
+    {
+      "id": "c342c83f7acb",
+      "title": "pELYqzwB4NsKdYEHvltRgViBgXfYFZgTLbLQ01Hz",
+      "pdfFileName": "pELYqzwB4NsKdYEHvltRgViBgXfYFZgTLbLQ01Hz.pdf",
+      "pdfPath": "data/pdfs/pELYqzwB4NsKdYEHvltRgViBgXfYFZgTLbLQ01Hz.pdf",
+      "textPath": "data/texts/c342c83f7acb.txt",
+      "bytes": 41668170,
+      "updatedAt": "2026-01-19T07:34:50.784Z"
+    },
+    {
+      "id": "2bc94c2445dc",
+      "title": "pKqQcunlyEqYZOOwiZ3vhFXYGKifmUpj1KqZei2J",
+      "pdfFileName": "pKqQcunlyEqYZOOwiZ3vhFXYGKifmUpj1KqZei2J.pdf",
+      "pdfPath": "data/pdfs/pKqQcunlyEqYZOOwiZ3vhFXYGKifmUpj1KqZei2J.pdf",
+      "textPath": "data/texts/2bc94c2445dc.txt",
+      "bytes": 3409035,
+      "updatedAt": "2026-01-19T07:34:50.843Z"
+    },
+    {
+      "id": "f6e3ae75b267",
+      "title": "pXDPyyTEllYlTuENLMTPujNzgozKP8NwLp33JSNX",
+      "pdfFileName": "pXDPyyTEllYlTuENLMTPujNzgozKP8NwLp33JSNX.pdf",
+      "pdfPath": "data/pdfs/pXDPyyTEllYlTuENLMTPujNzgozKP8NwLp33JSNX.pdf",
+      "textPath": "data/texts/f6e3ae75b267.txt",
+      "bytes": 2996805,
+      "updatedAt": "2026-01-19T07:34:50.887Z"
+    },
+    {
+      "id": "5f41b3f00fb8",
+      "title": "qEpZ7ZOjY9ClBV9AOwLvuZuG7u6ZIRx03Rz51Gv6",
+      "pdfFileName": "qEpZ7ZOjY9ClBV9AOwLvuZuG7u6ZIRx03Rz51Gv6.pdf",
+      "pdfPath": "data/pdfs/qEpZ7ZOjY9ClBV9AOwLvuZuG7u6ZIRx03Rz51Gv6.pdf",
+      "textPath": "data/texts/5f41b3f00fb8.txt",
+      "bytes": 5293236,
+      "updatedAt": "2026-01-19T07:34:50.956Z"
+    },
+    {
+      "id": "24553af0e4df",
+      "title": "U39aeE2R0CIw08rmmSzn6V6Ig4qXj5EEdvVxa7pw",
+      "pdfFileName": "U39aeE2R0CIw08rmmSzn6V6Ig4qXj5EEdvVxa7pw.pdf",
+      "pdfPath": "data/pdfs/U39aeE2R0CIw08rmmSzn6V6Ig4qXj5EEdvVxa7pw.pdf",
+      "textPath": "data/texts/24553af0e4df.txt",
+      "bytes": 47720339,
+      "updatedAt": "2026-01-19T07:34:51.574Z"
+    },
+    {
+      "id": "49dbea6356d3",
+      "title": "WirLAuseiRahJjKeVznseKxmAt1l90Hf0jO89WQZ",
+      "pdfFileName": "WirLAuseiRahJjKeVznseKxmAt1l90Hf0jO89WQZ.pdf",
+      "pdfPath": "data/pdfs/WirLAuseiRahJjKeVznseKxmAt1l90Hf0jO89WQZ.pdf",
+      "textPath": "data/texts/49dbea6356d3.txt",
+      "bytes": 3965088,
+      "updatedAt": "2026-01-19T07:34:51.627Z"
+    },
+    {
+      "id": "b6f5d1e50ab7",
+      "title": "woInaLyWrnv0dgz9gEyTALz7qVsVWbYhKoqW4BPI",
+      "pdfFileName": "woInaLyWrnv0dgz9gEyTALz7qVsVWbYhKoqW4BPI.pdf",
+      "pdfPath": "data/pdfs/woInaLyWrnv0dgz9gEyTALz7qVsVWbYhKoqW4BPI.pdf",
+      "textPath": "data/texts/b6f5d1e50ab7.txt",
+      "bytes": 3404876,
+      "updatedAt": "2026-01-19T07:34:51.679Z"
+    },
+    {
+      "id": "863ad7248f90",
+      "title": "XwvHNTg6s3Izwp0iBYJ7ZtkSBunny0DyaHvAvilo",
+      "pdfFileName": "XwvHNTg6s3Izwp0iBYJ7ZtkSBunny0DyaHvAvilo.pdf",
+      "pdfPath": "data/pdfs/XwvHNTg6s3Izwp0iBYJ7ZtkSBunny0DyaHvAvilo.pdf",
+      "textPath": "data/texts/863ad7248f90.txt",
+      "bytes": 52175889,
+      "updatedAt": "2026-01-19T07:34:52.348Z"
+    },
+    {
+      "id": "30147455bd8b",
+      "title": "yHuN9jAVIOUhkMtQajmHA1e6dwb3Dz2hRV1pkKAO",
+      "pdfFileName": "yHuN9jAVIOUhkMtQajmHA1e6dwb3Dz2hRV1pkKAO.pdf",
+      "pdfPath": "data/pdfs/yHuN9jAVIOUhkMtQajmHA1e6dwb3Dz2hRV1pkKAO.pdf",
+      "textPath": "data/texts/30147455bd8b.txt",
+      "bytes": 40202562,
+      "updatedAt": "2026-01-19T07:34:52.888Z"
+    },
+    {
+      "id": "9ff835b4e00d",
+      "title": "yTYIldrk3OhhNYtCQLMN424V100WB885XSqDsIQP",
+      "pdfFileName": "yTYIldrk3OhhNYtCQLMN424V100WB885XSqDsIQP.pdf",
+      "pdfPath": "data/pdfs/yTYIldrk3OhhNYtCQLMN424V100WB885XSqDsIQP.pdf",
+      "textPath": "data/texts/9ff835b4e00d.txt",
+      "bytes": 27382887,
+      "updatedAt": "2026-01-19T07:34:53.285Z"
+    },
+    {
+      "id": "91fffb55074e",
+      "title": "z4JYm0IEvqJLFOnIHSP83bVuvG5lHi9MmThitUg6",
+      "pdfFileName": "z4JYm0IEvqJLFOnIHSP83bVuvG5lHi9MmThitUg6.pdf",
+      "pdfPath": "data/pdfs/z4JYm0IEvqJLFOnIHSP83bVuvG5lHi9MmThitUg6.pdf",
+      "textPath": "data/texts/91fffb55074e.txt",
+      "bytes": 49107819,
+      "updatedAt": "2026-01-19T07:34:53.910Z"
+    },
+    {
+      "id": "246449e5ef24",
+      "title": "Z6EUe69zWtfnazBFPakx3YKIpWWtlb4jrIJcPPoF",
+      "pdfFileName": "Z6EUe69zWtfnazBFPakx3YKIpWWtlb4jrIJcPPoF.pdf",
+      "pdfPath": "data/pdfs/Z6EUe69zWtfnazBFPakx3YKIpWWtlb4jrIJcPPoF.pdf",
+      "textPath": "data/texts/246449e5ef24.txt",
+      "bytes": 5468716,
+      "updatedAt": "2026-01-19T07:34:53.984Z"
+    },
+    {
+      "id": "1e1e731d5b18",
+      "title": "ZsSd6dxIO4vNXS4ATvhAQFns3zf7y2WqHPISqDnO",
+      "pdfFileName": "ZsSd6dxIO4vNXS4ATvhAQFns3zf7y2WqHPISqDnO.pdf",
+      "pdfPath": "data/pdfs/ZsSd6dxIO4vNXS4ATvhAQFns3zf7y2WqHPISqDnO.pdf",
+      "textPath": "data/texts/1e1e731d5b18.txt",
+      "bytes": 8471979,
+      "updatedAt": "2026-01-19T07:34:54.105Z"
+    }
+  ]
+}

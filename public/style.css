@@ -1,0 +1,328 @@
+:root{
+  --bg1:#eaf0ff;
+  --bg2:#f5f7fb;
+  --ink:#0f172a;
+  --muted:#64748b;
+  --card:#ffffff;
+  --line:rgba(15,23,42,.10);
+  --shadow: 0 20px 50px rgba(15, 23, 42, .12);
+  --shadow2: 0 8px 18px rgba(15, 23, 42, .08);
+  --accent:#3b82f6;
+  --accent2:#2563eb;
+}
+
+*{box-sizing:border-box;}
+
+html,body{height:100%;}
+body{
+  margin:0;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+  color: var(--ink);
+  background:
+    radial-gradient(1200px 450px at 20% 0%, rgba(90, 102, 122, 0.18), rgba(59,130,246,0) 60%),
+    radial-gradient(900px 380px at 80% 10%, rgba(124,58,237,.14), rgba(124,58,237,0) 60%),
+    linear-gradient(180deg, var(--bg1), var(--bg2));
+}
+
+.topbar{
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(166, 185, 218, 0.7);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--line);
+}
+.topbar__inner{
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 14px 18px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap: 16px;
+}
+
+.brand{display:flex;align-items:center;gap:10px;}
+.brand__mark{
+  width:34px;
+  height:34px;
+  border-radius: 10px;
+  display:grid;
+  place-items:center;
+  color: var(--accent2);
+  background: rgba(59,130,246,.12);
+  border: 1px solid rgba(59,130,246,.25);
+}
+.brand__name{
+  font-weight: 800;
+  letter-spacing: .2px;
+  font-size: 18px;
+}
+
+.nav{display:flex;gap:12px;align-items:center;flex-wrap:wrap;}
+.nav__link{
+  text-decoration:none;
+  color: var(--muted);
+  font-weight: 600;
+  font-size: 14px;
+  padding: 8px 10px;
+  border-radius: 10px;
+}
+.nav__link:hover{
+  color: var(--ink);
+  background: rgba(15,23,42,.04);
+}
+
+.page{padding: 26px 16px 34px;}
+.shell{max-width: 980px;margin: 0 auto;}
+
+.card{
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 22px;
+  box-shadow: var(--shadow);
+  padding: 26px 24px 20px;
+  position: relative;
+  overflow: hidden;
+}
+
+.card::before{
+  content:"";
+  position:absolute;
+  inset:-120px -180px auto auto;
+  width: 380px;
+  height: 380px;
+  border-radius: 999px;
+  background: radial-gradient(circle at 30% 30%, rgba(59,130,246,.18), rgba(59,130,246,0) 60%);
+  pointer-events:none;
+}
+
+.card__head{max-width: 720px;}
+.title{
+  margin:0;
+  font-size: 30px;
+  line-height: 1.12;
+  letter-spacing: -.5px;
+}
+.subtitle{
+  margin: 10px 0 0;
+  color: var(--muted);
+  font-size: 15px;
+}
+
+.search{margin-top: 18px;display:flex;flex-direction:column;gap: 12px;}
+.search__row{display:flex;gap: 10px;align-items:center;}
+.search__field{
+  flex: 1;
+  display:flex;
+  align-items:center;
+  gap: 10px;
+  border: 1px solid var(--line);
+  background: rgba(248,250,252,.9);
+  border-radius: 14px;
+  padding: 12px 12px;
+  box-shadow: var(--shadow2);
+}
+.search__icon{color: var(--muted);display:grid;place-items:center;}
+.search__input{
+  border: 0;
+  outline: none;
+  background: transparent;
+  width: 100%;
+  font-size: 15px;
+  color: var(--ink);
+}
+.search__input::placeholder{color: rgba(100,116,139,.9);}
+
+.btn{
+  border: 1px solid rgba(37,99,235,.35);
+  background: linear-gradient(180deg, rgba(59,130,246,1), rgba(37,99,235,1));
+  color: white;
+  font-weight: 800;
+  padding: 12px 18px;
+  border-radius: 14px;
+  cursor: pointer;
+  box-shadow: 0 12px 24px rgba(37,99,235,.25);
+}
+.btn:hover{filter: brightness(1.03);}
+.btn:active{transform: translateY(1px);}
+
+.toggle{
+  display:flex;
+  align-items:center;
+  gap: 10px;
+  color: var(--muted);
+  font-size: 13px;
+  user-select:none;
+}
+.toggle input{display:none;}
+.toggle__ui{
+  width: 44px;
+  height: 26px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: rgba(15,23,42,.06);
+  position: relative;
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,.5);
+}
+.toggle__ui::after{
+  content:"";
+  position:absolute;
+  top: 3px;
+  left: 3px;
+  width: 20px;
+  height: 20px;
+  border-radius: 999px;
+  background: #fff;
+  box-shadow: 0 6px 14px rgba(15,23,42,.18);
+  transition: transform .18s ease;
+}
+.toggle input:checked + .toggle__ui{
+  background: rgba(59,130,246,.20);
+  border-color: rgba(59,130,246,.40);
+}
+.toggle input:checked + .toggle__ui::after{transform: translateX(18px);}
+
+.status{
+  margin-top: 10px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.results{
+  margin-top: 14px;
+  display:flex;
+  flex-direction:column;
+  gap: 10px;
+}
+
+.result{
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 14px 14px;
+  display:flex;
+  gap: 12px;
+  align-items:flex-start;
+  background: rgba(255,255,255,.85);
+}
+.result__icon{
+  width: 36px;
+  height: 36px;
+  border-radius: 12px;
+  display:grid;
+  place-items:center;
+  color: var(--accent2);
+  background: rgba(59,130,246,.10);
+  border: 1px solid rgba(59,130,246,.22);
+  flex: 0 0 auto;
+}
+.result__main{flex: 1;min-width:0;}
+.result__title{
+  display:flex;
+  align-items:center;
+  gap: 10px;
+  flex-wrap:wrap;
+  margin: 0;
+  font-size: 15px;
+}
+.result__file{
+  color: var(--muted);
+  font-weight: 600;
+  font-size: 13px;
+}
+.result__badge{
+  font-size: 12px;
+  font-weight: 800;
+  color: rgba(37,99,235,1);
+  background: rgba(59,130,246,.12);
+  border: 1px solid rgba(59,130,246,.25);
+  padding: 5px 8px;
+  border-radius: 999px;
+}
+.result__snippet{
+  margin: 8px 0 0;
+  color: rgba(15,23,42,.80);
+  font-size: 13px;
+  line-height: 1.45;
+}
+.result__snippet + .result__snippet{margin-top: 6px;}
+
+mark{
+  background: rgba(250,204,21,.35);
+  border-radius: 6px;
+  padding: 0 3px;
+}
+
+.footer{
+  margin-top: 14px;
+  color: var(--muted);
+  font-size: 13px;
+  text-align: center;
+}
+.footer__inner{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap: 10px;
+  flex-wrap:wrap;
+}
+.dot{opacity:.7;}
+
+@media (max-width: 720px){
+  .title{font-size: 26px;}
+  .search__row{flex-direction:column;align-items:stretch;}
+  .btn{width:100%;}
+}
+/* ✅ Card (kotak putih) lebih kecil */
+.shell{
+  max-width: 820px;   /* sebelumnya 980px */
+}
+
+.card{
+  padding: 18px 18px 14px;  /* sebelumnya 26px 24px 20px */
+  border-radius: 18px;      /* sedikit lebih kecil */
+}
+
+/* ✅ Judul dan teks mengecil */
+.title{
+  font-size: 24px;   /* sebelumnya 30px */
+}
+
+.subtitle{
+  font-size: 13px;   /* sebelumnya 15px */
+}
+
+/* ✅ Field input & tombol lebih kecil */
+.search__field{
+  padding: 10px 10px;
+  border-radius: 12px;
+}
+
+.search__input{
+  font-size: 14px;
+}
+
+.btn{
+  padding: 10px 14px;
+  border-radius: 12px;
+  font-size: 14px;
+}
+
+/* ✅ Toggle & status teks lebih kecil */
+.toggle{
+  font-size: 12px;
+}
+
+.status{
+  font-size: 12px;
+}
+
+/* ✅ Result box lebih kecil */
+.result{
+  padding: 12px 12px;
+  border-radius: 14px;
+}
+
+.result__title{ font-size: 14px; }
+.result__file{ font-size: 12px; }
+.result__snippet{ font-size: 12px; }

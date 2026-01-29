@@ -1,0 +1,22 @@
+{
+  "name": "cari-pdf-kmp",
+  "version": "1.0.0",
+  "description": "Aplikasi pencarian kata kunci pada dokumen PDF menggunakan algoritma KMP (String Matching)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build:data": "node scripts/build_texts.js"
+  },
+  "keywords": [
+    "kmp",
+    "string-matching",
+    "pdf",
+    "search"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pdf-parse": "^2.4.5"
+  }
+}
